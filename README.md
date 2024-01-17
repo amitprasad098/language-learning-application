@@ -1,6 +1,7 @@
 Polyglot Quest - A Language Learning Application
 
 Overview:
+
 PolyglotQuest is an innovative language learning application designed to make mastering languages a fun and interactive journey. With a user-friendly interface, engaging games, and personalized modules, PolyglotQuest adapts to your pace, ensuring an enjoyable experience for language enthusiasts of all levels.
 
 Features:
