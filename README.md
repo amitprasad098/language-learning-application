@@ -13,6 +13,9 @@ Features:
 5. Community Focus: Connect with other language enthusiasts and share experiences.
 
 Technology Stack:
+
 Backend: Java Spring Boot
+
 Frontend: React
+
 Database: MySQL
